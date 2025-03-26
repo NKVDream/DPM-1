@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-1\\dpm-1-tasks\\dpm-1-tasks\\dpm-1-tasks.csproj",
-      "projectName": "dpm-1-tasks",
-      "projectPath": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-1\\dpm-1-tasks\\dpm-1-tasks\\dpm-1-tasks.csproj",
+      "projectUniqueName": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-1\\dpm-1-tasks\\dpm-1-tasks\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-1\\dpm-1-tasks\\dpm-1-tasks\\Task1.csproj",
       "packagesPath": "C:\\Users\\kmv23\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kmv23\\Desktop\\DPM\\DPM-1\\dpm-1-tasks\\dpm-1-tasks\\obj\\",
       "projectStyle": "PackageReference",

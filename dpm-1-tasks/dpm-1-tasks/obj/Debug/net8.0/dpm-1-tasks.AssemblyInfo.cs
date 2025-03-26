@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dpm-1-tasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db7774ed22e10d452f7be2386eb48cf8bf456236")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+720df796556fb82ae649f59713dc6b4611230eea")]
 [assembly: System.Reflection.AssemblyProductAttribute("dpm-1-tasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dpm-1-tasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
