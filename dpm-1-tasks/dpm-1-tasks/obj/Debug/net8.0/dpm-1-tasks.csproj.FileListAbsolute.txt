@@ -1,0 +1,15 @@
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\bin\Debug\net8.0\dpm-1-tasks.exe
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\bin\Debug\net8.0\dpm-1-tasks.deps.json
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\bin\Debug\net8.0\dpm-1-tasks.runtimeconfig.json
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\bin\Debug\net8.0\dpm-1-tasks.dll
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\bin\Debug\net8.0\dpm-1-tasks.pdb
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\dpm-1-tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\dpm-1-tasks.AssemblyInfoInputs.cache
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\dpm-1-tasks.AssemblyInfo.cs
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\dpm-1-tasks.csproj.CoreCompileInputs.cache
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\dpm-1-tasks.sourcelink.json
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\dpm-1-tasks.dll
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\refint\dpm-1-tasks.dll
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\dpm-1-tasks.pdb
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\dpm-1-tasks.genruntimeconfig.cache
+C:\Users\kmv23\Desktop\DPM\DPM-1\dpm-1-tasks\dpm-1-tasks\obj\Debug\net8.0\ref\dpm-1-tasks.dll
